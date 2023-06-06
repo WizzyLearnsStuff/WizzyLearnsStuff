@@ -11,3 +11,11 @@ https://earthshakira.github.io/a2oj-clientside/server/Ladders.html
 https://en.wikipedia.org/wiki/Hypercomputation
 https://en.wikipedia.org/wiki/Real_computation
 https://en.wikipedia.org/wiki/Cell-probe_model
+
+## Reading Later
+https://en.wikipedia.org/wiki/Euclidean_algorithm#Number_of_steps
+
+## What is Coq?
+http://adam.chlipala.net/frap/frap_book.pdf
+https://coq.inria.fr/documentation
+
