@@ -14,6 +14,7 @@ https://en.wikipedia.org/wiki/Cell-probe_model
 
 ## Reading Later
 https://en.wikipedia.org/wiki/Euclidean_algorithm#Number_of_steps
+https://en.wikipedia.org/wiki/Duff%27s_device
 
 ## What is Coq?
 http://adam.chlipala.net/frap/frap_book.pdf
